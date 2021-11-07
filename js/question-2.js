@@ -29,4 +29,4 @@ fetch(urlWithKey)
         </div>`
       }
    })
-   .catch((error) => console.log(error));
+   .catch((error) => document.querySelector(".loading").innerHTML = error);
