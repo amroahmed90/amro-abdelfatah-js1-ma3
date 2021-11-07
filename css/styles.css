@@ -10,6 +10,14 @@ h1 {
     color: rgb(110, 14, 200);
 }
 
+.error {
+    border: red 1px solid;
+    text-align: center;
+    color: red;
+    background-color: rgba(255, 0, 0, 0.1);
+    padding: 10px;
+}
+
 .loading {
     width: 50%;
     margin: auto;
