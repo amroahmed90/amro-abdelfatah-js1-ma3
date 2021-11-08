@@ -1,4 +1,4 @@
-const API_KEY = "edc2efbb7cc2451e9d10315a9884f018a";
+const API_KEY = "edc2efbb7cc2451e9d10315a9884f018";
 
 const url =
    "https://api.rawg.io/api/games?dates=2019-01-01,2019-12-31&ordering=-rating&key=INSERTAPIKEYHERE";
